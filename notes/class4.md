@@ -85,3 +85,18 @@ Requirements can be categorized
 2. The system shall allow users to filter their search results by amenities. (User, Functional)
 3. The system shall prevent double bookings by blocking dates during the reservation process (System, Functional)
 4. The system shall log users out automatically after 15 minutes of inactivity. (System/User, Non-functional)
+
+Problems with requirements
+* Ambiguity
+    * Different interpretations by different stakeholders
+    * Example: "The system shall be user-friendly"
+* Incompleteness (missing info)
+* Inconsistency
+    * Different stakeholders
+* Unquantifiability
+    * Can't test them
+
+Good requirements are:
+* Feasible
+* Necessary
+* Verifiable/Testable
